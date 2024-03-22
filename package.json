@@ -1,14 +1,14 @@
 {
-  "name": "bjgameguessnos",
-  "version": "1.0.2",
-  "description": "Number_Guessing Game",
-  "main": "main.ts",
+  "name": "onetotengame",
+  "version": "1.0.4",
+  "description": "number.guessing.game",
+  "main": "index.js",
   "type": "module",
-  "bin": "main.js",
+  "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "BJ"
   },
-  "author": "Bushra_Jan",
+  "author": "Bushra Jan",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
